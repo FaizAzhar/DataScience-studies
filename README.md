@@ -10,3 +10,8 @@ Credit to all authors because they do not skimp on all these knowledges & help u
 Along the time, you'll find other notes created from various discipline such as Stats, Maths, Finance, Actuarial etc. because I want to connect all of these knowledges and benefit the society.
 
 It is a public journal to be used by everyone interested in Data Science. I'm creating this repo solely to keep me motivate in reading materials every day.
+
+Feel free to look into these repo as well:
+* https://github.com/datasciencemasters/go
+
+* https://github.com/jupyter/jupyter/wiki
