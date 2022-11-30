@@ -5,6 +5,7 @@ This repo is created to store all the notes taken while I'm reading the
 * https://www.datacamp.com/tutorial/probability-distributions-python
 * https://www.spcforexcel.com/knowledge/basic-statistics/deciding-which-distribution-fits-your-data-best
 * https://statisticsbyjim.com/
+* https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/kruskal-wallis/
 
 Credit to all authors because they do not skimp on all these knowledges & help us understand everything better.
 
