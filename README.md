@@ -1,6 +1,7 @@
 # DataScience-studies
 This repo is created to store all the notes taken while I'm reading the 
 
+* https://pynative.com/python-object-oriented-programming-oop-exercise/
 * https://wesmckinney.com/book/numpy-basics.html 
 * https://www.datacamp.com/tutorial/probability-distributions-python
 * https://www.spcforexcel.com/knowledge/basic-statistics/deciding-which-distribution-fits-your-data-best
