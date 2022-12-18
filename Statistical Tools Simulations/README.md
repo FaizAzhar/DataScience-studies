@@ -1,4 +1,4 @@
-# Statistical Testing Simulations
+# Statistical Tool Simulations
 
 A researcher or analyst often use statistical tools during data analysis.
 Tools such as 1-way or k-way ANOVA is used to make sure if there is significant different between the mean of groups/levels.
