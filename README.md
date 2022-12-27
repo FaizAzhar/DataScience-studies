@@ -17,5 +17,6 @@ It is a public journal to be used by everyone interested in Data Science. I'm cr
 Feel free to look into these repo as well:
 * https://github.com/datasciencemasters/go
 * https://github.com/jupyter/jupyter/wiki
+* https://github.com/patrickloeber/MLfromscratch
 
 Have a good day everyone!
