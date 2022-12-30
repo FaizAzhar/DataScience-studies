@@ -10,7 +10,7 @@ This repo is created to store all the notes taken while I'm reading the
 
 Credit to all authors because they do not skimp on all these knowledges & help us understand everything better.
 
-Along the time, you'll find other notes created from various discipline such as Stats, Maths, Finance, Actuarial etc. because I want to connect all of these knowledges and benefit the society.
+Along the time, you'll find other notes created from various discipline such as Modern Stats, Maths, Finance, Actuarial etc. because I want to connect all of these knowledges and benefit the society.
 
 It is a public journal to be used by everyone interested in Data Science. I'm creating this repo solely to keep me motivate in reading materials every day.
 
