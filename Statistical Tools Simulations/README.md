@@ -13,3 +13,4 @@ Do let me know if you find any error in the simulations. 😄😄😄
 
 In case you are curious about the new statistical techniques in current development, feel free to read this article as a starter:
  - https://theconversation.com/new-statistical-methods-would-let-researchers-deal-with-data-in-better-more-robust-ways-67981
+ - https://link.springer.com/article/10.3758/s13428-019-01246-w
