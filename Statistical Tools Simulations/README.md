@@ -7,5 +7,9 @@ Meanwhile various other statistical tools are performed for a specific reason, w
 about the characteristics of the data that they have in hand (at least from a statistical viewpoint).
 
 This notebook is written as a platform for me to test/experiment with various statistical testing so that
-I am familiar and convince with the usage of it. Feel free to use, comment and do whatever you like with this notebook.
-Do let me know in case you find any error in the simulations. 😄😄😄
+I am familiar and convince with the usage of it. Please also note that the simulations are mixed with the conventional and new techniques. Thus feel free to use, comment and do whatever you like with this notebook.
+
+Do let me know if you find any error in the simulations. 😄😄😄
+
+In case you are curious about the new statistical techniques in current development, feel free to read this article as a starter:
+ - https://theconversation.com/new-statistical-methods-would-let-researchers-deal-with-data-in-better-more-robust-ways-67981
